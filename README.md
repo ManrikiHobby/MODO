@@ -1,2 +1,2 @@
 # MODOAssets
- 3DCG作成ソフトMODO(The Foundry)用のアセット
+ Assets for The Foundry MODO(3DCG Application).
