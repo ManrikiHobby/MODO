@@ -4,7 +4,8 @@
 # 対応MODOバージョン
  MODO 12.2 v1 以降 
 
- -- 以降 記載中。
+# ファイル概要
+ Spiral_Staircase_Assembly.lxo … アセンブリ作成用のシーンファイル。
 
 # 
  ■アセンブリチャンネル
