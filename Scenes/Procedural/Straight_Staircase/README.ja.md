@@ -1,5 +1,5 @@
 ﻿# Straight_Staircase_Assembly
- 階段をプロシージャルに生成するアセンブリ。
+ 直進階段をプロシージャルに生成するアセンブリ。
 
 # 対応MODOバージョン  
 MODO 12.2 v1 以降 
@@ -10,24 +10,7 @@ MODO 12.2 v1 以降
 |Straight_Staircase_Assembly.lxo|アセンブリ作成用のシーンファイル。
 
 # チャンネル一覧
-|チャンネル名|意味|
-|:-|-|
-|Count |階段の段数|
-|Tread |踏み面の奥行き|
-|Riser |蹴上げの厚さ|
-|Spacing |蹴上げの隙間|
-|Overlap |踏み面の重なり(負値可)|
-|Create stringers |側板を作成する|
-|Stringer width |側板の幅|
-|Create handrail |手擦りを作成する|
-|Handrail height|手擦りの高さ|
-|Grip width|手擦り握りの幅|
-|Grip height|手擦り握りの高さ|
-|Bar width|手擦り軸の太さ|
-|Extension (lower)|手擦り延長(下段)|
-|Extension (upper)|手擦り延長(上段)|
-|Ground|接地する|
-|Flatten|段差を無くす(橋の様な形状になる)|
+[アセンブリチャンネル一覧](../../../Assemblies/Procedural/Straight_Staircase/README.ja.md#チャンネル一覧)参照。
 
 # アセンブリプリセット作成方法
 (1) スケマティックビューでアセンブリを右クリックし、「アセンブリプリセットを保存」を選択。
