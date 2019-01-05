@@ -31,6 +31,8 @@ MODO 12.2 v1 以降
 |Spacing|蹴上げの隙間|
 |Segments|段の側面のポリゴン数(多いほど扇形に近くなる)|
 |Rectangulate|段の矩形度(%)|
+|Start angle offset|段の扇形の開始角度オフセット|
+|End angle offset|段の扇形の終了角度オフセット|
 |Create center pole|支柱を作成する|
 |Side segments|支柱の側面のポリゴン数(多いほど円筒に近くなる)|
 |Create inner handrail|手擦り(内側)を作成する|
