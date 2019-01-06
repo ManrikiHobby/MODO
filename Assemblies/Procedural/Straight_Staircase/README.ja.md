@@ -10,7 +10,7 @@ MODO 12.2 v1 以降
 |Straight_Staircase.lxp|アセンブリファイル
 
 # 使用方法
-(1) アセンブリファイル(*.lxp)をMODOのコンテンツフォルダに保存する。 以下を推奨。  
+(1) [こちら](https://github.com/ManrikiHobby/MODOAssets/raw/master/Assemblies/Procedural/Straight_Staircase/Straight_Staircase.lxp)からアセンブリファイル(*.lxp)をダウンロードし、MODOのコンテンツフォルダに保存する。 保存先は以下を推奨。  
 
           (コンテンツフォルダ)\Assets\Assemblies
 

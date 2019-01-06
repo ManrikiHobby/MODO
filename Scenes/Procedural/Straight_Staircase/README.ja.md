@@ -39,3 +39,5 @@ MODO 12.2 v1 以降
        保存先を以下のようにすると、アイテムリストの「アイテム追加」で選べるようになる。
 
           (コンテンツフォルダ)\Assets\Assemblies\Aliases\Mesh Operations
+
+### 参考：[プロシージャルモデリングのアセット化](http://modogroup.jp/tipsblog/modeling/102_assembly_alias/)
