@@ -52,7 +52,42 @@ MODO 12.2 v1 以降
 |Ground the 1st floor|接地する(1階分)|
 
 # 作例
-## (TBD)記載中
+(1) デフォルト    
+![spiralstairs_default](https://user-images.githubusercontent.com/40119223/50734592-acc02500-11e4-11e9-9145-c8014def5228.jpg)
+
+(2) 支柱無し／両手擦り (聖ヨゼフの階段)  
+![spiralstairs_stjoseph1](https://user-images.githubusercontent.com/40119223/50734605-cb262080-11e4-11e9-9aac-c0321d465465.jpg)
+![spiralstairs_stjoseph2](https://user-images.githubusercontent.com/40119223/50734622-f446b100-11e4-11e9-8a2f-ef9ae78a2549.jpg)
+
+* Create center pole = OFF  
+* Create inner handrail = ON
+
+(3) 回り階段  
+![spiralstairs_quarter](https://user-images.githubusercontent.com/40119223/50734634-150f0680-11e5-11e9-8c70-405353c7fd46.jpg)
+* Inner radius = 3m
+* Turns = 0.25
+* Clockwise = ON
+* Count = 12
+* Width = 4m
+* Segments = 8
+* Start angle offset = 2°
+* Grip width = 20cm
+* Grip height = 20cm
+* Shaft width = 15cm
+* Shaft side segments = 16
+* Shaft inner margin (tread) = 2.5°
+* Shaft inner margin (width) = 25cm
+* Ground the 1st floor = ON
+
+(4) 塔の外階段  
+![spiralstairs_tower](https://user-images.githubusercontent.com/40119223/50734649-42f44b00-11e5-11e9-9e4d-d759f6168667.jpg)
+* Height = 30m
+* Inner radius = 8m
+* Turns = 5
+* Count = 96
+* Width = 1m
+* Spacing = 1mm(最小)
+* End angle offset = -2.4°
 
 # メッシュの確定方法
 (1) アイテムツリーでメッシュアイテム("Staircase")を右クリックし、コンテキストメニューから以下を実行。

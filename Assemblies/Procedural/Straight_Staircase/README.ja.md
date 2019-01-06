@@ -47,7 +47,22 @@ MODO 12.2 v1 以降
 |Flatten|段差を無くす(橋の様な形状になる)|
 
 # 作例
-## (TBD)記載中
+(1) デフォルト    
+![straightstairs_default](https://user-images.githubusercontent.com/40119223/50732404-0fea9100-11be-11e9-8758-4fe83829a13e.jpg)
+
+(2) 手擦り付き  
+![straightstairs_handrail](https://user-images.githubusercontent.com/40119223/50732337-85556200-11bc-11e9-8bbe-c3e8f042cb88.jpg)
+* Create handrail = ON  
+
+(3) 接地  
+![StraightStairs_Grounded](https://user-images.githubusercontent.com/40119223/50732986-17af3300-11c8-11e9-987c-7badea799136.jpg)
+
+* Ground = ON
+
+(4) 橋状  
+![straightstairs_flattened](https://user-images.githubusercontent.com/40119223/50732991-2a296c80-11c8-11e9-8a89-af0a07c712df.jpg)
+* Flatten = ON
+* Spacing = -2cm (負値)
 
 # メッシュの確定方法
 (1) アイテムツリーでメッシュアイテム("Staircase")を右クリックし、コンテキストメニューから以下を実行。
